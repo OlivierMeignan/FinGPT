@@ -1,7 +1,13 @@
-torch==2.0.1
-transformers==4.32.0
-peft==0.5.0
+# Python 3.11.6
+torch==2.1.2
+transformers==4.36.2
+peft==0.7.1
 pandas
 yfinance
 finnhub-python
 nvidia-ml-py3
+datasets
+openai
+mlflow
+ipywidgets
+rouge-score
